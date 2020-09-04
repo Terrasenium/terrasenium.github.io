@@ -1,0 +1,281 @@
+a, body, form, img, input, table, tr, td
+{
+	border:			0px;
+	margin:			0px;
+	padding:		0px;
+}
+
+a, a:visited
+{
+	color:			#dddddd;
+	text-decoration:	underline;
+}
+
+table, tr, td
+{
+	font-family:		verdana, sans-serif;
+	font-size:		11px;
+	vertical-align:		top;
+}
+
+body
+{
+	background:		#333333 url("images/background.jpg");
+	color:			#5f5f5f;
+	font-family:		verdana, sans-serif;
+	font-size:		11px;
+}
+	#background
+	{
+		background:		url("images/background_top.jpg") repeat-x;
+		clear:			both;
+		text-align:		center;
+		width:			100%;
+	}
+		#wrap
+		{
+			clear:			both;
+			margin:			0px auto;
+			text-align:		left;
+			width:			800px;
+		}
+			#banner
+			{
+				background:		url("images/banner.jpg") no-repeat;
+				clear:			both;
+				height:			245px;
+				overflow:		hidden;
+				width:			800px;
+			}
+			
+			#menua
+			{
+				background:		url("images/menubg.jpg") no-repeat;
+				clear:			both;
+				height:			45px;
+				overflow:		hidden;
+				width:			800px;
+			}
+				#floatfix
+				{
+					clear:			both;
+					float:			right;
+					height:			45px;
+					overflow:		hidden;
+					width:			464px;
+				}
+					#floatfix * a
+					{
+						display:		block;
+						height:			45px;
+						text-decoration:	none;
+						width:			100%;
+					}
+					
+					#home
+					{
+						background:		url("images/home.jpg") no-repeat;
+						float:			left;
+						height:			45px;
+						overflow:		hidden;
+						width:			60px;
+					}
+					#forums
+					{
+						background:		url("images/forums.jpg") no-repeat;
+						float:			left;
+						height:			45px;
+						overflow:		hidden;
+						width:			72px;
+					}
+					#members
+					{
+						background:		url("images/members.jpg") no-repeat;
+						float:			left;
+						height:			45px;
+						overflow:		hidden;
+						width:			84px;
+					}
+					#rules
+					{
+						background:		url("images/rules.jpg") no-repeat;
+						float:			left;
+						height:			45px;
+						overflow:		hidden;
+						width:			60px;
+					}
+					#schedule
+					{
+						background:		url("images/schedule.jpg") no-repeat;
+						float:			left;
+						height:			45px;
+						overflow:		hidden;
+						width:			188px;
+					}
+				
+			#mainarea
+			{
+				clear:			both;
+				height:			341px;
+				overflow:		hidden;
+				width:			800px;
+			}
+				#leftcol
+				{
+					background:		url("images/leftcol.jpg") no-repeat;
+					float:			left;
+					height:			341px;
+					overflow:		hidden;
+					width:			176px;
+				}
+				
+				#contentaindex
+				{
+					background:		#363636;
+					float:			left;
+					height:			341px;
+					overflow:		hidden;
+					width:			326px;
+				}
+					#bigheadindex
+					{
+						background:		url("images/contentheader_index.jpg") no-repeat;
+						clear:			both;
+						height:			36px;
+						overflow:		hidden;
+						width:			326px;
+					}
+					
+					#centerfix
+					{
+						background:		#2b2b2b;
+						clear:			both;
+						color:			#5f5f5f;
+						height:			297px;
+						margin:			4px;
+						overflow:		auto;
+						text-align:		left;
+						width:			318px;
+					}
+						.headlineindex
+						{
+							background:		url("images/headline_index.jpg") no-repeat;
+							clear:			both;
+							color:			#9f9f9f;
+							height:			16px;
+							line-height:		14px;
+							overflow:		hidden;
+							width:			290px;
+						}
+							.headlineindex p, .post p
+							{
+								margin:			0px 4px;
+								padding:		0px;
+							}
+						.post
+						{
+							clear:			both;
+							color:			inherit;
+							overflow:		hidden;
+							width:			290px;
+						}
+				#contentacontent
+				{
+					float:			left;
+					height:			341px;
+					overflow:		hidden;
+					width:			541px;
+				}
+					#bigheadcontent
+					{
+						background:		url("images/contentheader_content.jpg") no-repeat;
+						clear:			both;
+						height:			36px;
+						overflow:		hidden;
+						width:			541px;
+					}
+					
+					#centerfixcontent
+					{
+						background:		#2b2b2b;
+						clear:			both;
+						color:			#5f5f5f;
+						height:			297px;
+						margin:			4px;
+						overflow:		auto;
+						text-align:		left;
+						width:			533px;
+					}
+						.headlinecontent
+						{
+							background:		url("images/headline_content.jpg") no-repeat;
+							clear:			both;
+							color:			#9f9f9f;
+							height:			16px;
+							line-height:		14px;
+							overflow:		hidden;
+							width:			505px;
+						}
+							.headlinecontent p, .postcontent p
+							{
+								margin:			0px 4px;
+								padding:		0px;
+							}
+						.postcontent
+						{
+							clear:			both;
+							color:			inherit;
+							overflow:		hidden;
+							width:			505px;
+						}
+							.floatlefta
+							{
+								clear:			both;
+								margin:			4px;
+							}
+								.floatleft
+								{
+									float:			left;
+									width:			50%;
+								}
+				
+				#rightcolindex
+				{
+					background:		url("images/rightcolindex.jpg") no-repeat;
+					float:			right;
+					height:			341px;
+					overflow:		hidden;
+					width:			298px;
+				}
+				#rightcolcontent
+				{
+					background:		url("images/rightcol_content.jpg") no-repeat;
+					float:			right;
+					height:			341px;
+					overflow:		hidden;
+					width:			83px;
+				}
+			
+			#footerindex, #footercontent
+			{
+				clear:			both;
+				height:			135px;
+				overflow:		hidden;
+				text-align:		center;
+				width:			800px;
+			}
+			#footerindex
+			{
+				background:		url("images/footer_index.jpg") no-repeat;
+			}
+			#footercontent
+			{
+				background:		url("images/footer_content.jpg") no-repeat;
+			}
+				#footerindex div, #footercontent div
+				{
+					clear:			both;
+					margin:			0px auto;
+					padding-top:		100px;
+					text-align:		center;
+				}

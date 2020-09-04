@@ -1,0 +1,52 @@
+----------------------------------------------------------------
+Intro:
+----------------------------------------------------------------
+
+
+Thank you for downloading this free template release from www.clantemplates.com if you have any questions, this document will
+address them or direct you to where they can be addressed.
+
+All templates released at clantemplates are coded in html/xhtml so that even the most inexperienced individual can understand
+and edit the template. If you have either Frontpage or Dreamweaver at your disposal these would be recommended for you to
+easily edit and manage the code of your new website template. The below are 3 video tutorials that explain different aspects
+of how to use a template downloaded from Clantemplates.
+
+
+----------------------------------------------------------------
+How to Download & Edit Your Template:
+
+
+http://www.clantemplates.com/video/How_to_DL_and_Edit/How_to_DL_and_Edit.html
+
+----------------------------------------------------------------
+How to make a new page for the template:
+
+
+http://www.clantemplates.com/video/CT_How_to_Make_a_New_Page/CT_How_to_Make_a_New_Page.html
+
+----------------------------------------------------------------
+How to upload your template to a server:
+
+
+http://www.clantemplates.com/video/CT_How_to_Upload/CT_How_to_Upload.html
+
+
+----------------------------------------------------------------
+
+
+All templates released at Clantemplates include blank banner images for you to add your own clans name to in order to
+personalize the template. Such images are generally included in the images folder which was in the zip file you downloaded.
+This may also include other blank images for various parts of a template depending on the template you've downloaded.
+For this template, all the blank images is stored in the subfolder "blank images" in the "images" folder.
+
+Also, there's font's included in this template to keep the "CLAN NAME", "slogan goes here" and menu in the same style as the default.
+Those are in the subfolder "fonts" and is not nessesary to upload.
+
+
+So...do you still have questions that the video tutorials just didn't cover? Well the best place to get the kind of answers you
+need is to use that template you've downloaded is to submit your question for the Support Staff in the Clantemplates
+Help Booth. Here's a direct link to the help booth.
+
+http://forums.clantemplates.com/forumdisplay.php?f=9
+
+Any question you may have regarding a template they will be able to answer for you.
