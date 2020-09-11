@@ -1,0 +1,23 @@
+{
+    "name": "botDM",
+    "version": "1.0.0",
+    "description": "dm client for discord bots",
+    "bugs": {
+        "url": "https://github.com/jaketr00/Discord-Bot-Client/issues"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "jaketr00",
+        "email": "jaketr00@gmail.com"
+    },
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "devDependencies": {
+        "electron": "^2.0.4"
+    },
+    "dependencies": {
+        "discord.js": "^11.3.2"
+    }
+}
